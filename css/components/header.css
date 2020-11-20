@@ -1,0 +1,83 @@
+.cards {
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0px 10px 10px rgba(0,0,0,0);
+    flex-basis: 260px;
+    flex-grow: 1;
+  
+}
+
+.header img {
+    width: 180px;
+    border-radius: 6px;
+    margin-left: -50px;
+}
+
+.header h3 {
+    flex-grow: 1;
+    padding-left: 20px;
+    font-size: 18px;
+}
+
+.btn-header {
+    background-color: #0A57B8;
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-flex;
+    margin-left: 50px;
+     }
+
+.btn-header:hover {
+    background-color: #072F59;
+    color: white;
+  }
+
+.header-pictograms img {
+    height: 52px;
+    width: 50px; 
+    margin-left: 10px;
+}
+
+
+.card2 {
+    display: flex;
+    padding: 50px;
+}
+
+.card2 img {
+    width: 350px;
+    height: 250px;
+    margin: -95px;
+}
+
+.card2 p {
+    font-family: Montserrat;
+    font-size: 25px;
+    line-height: 30px;
+    margin: 90px;
+}
+
+.card2 a {
+    display: inline-flex;
+    margin-left: 90px;
+    margin-top: -200px;    
+    line-height: 30px;
+
+}
+
+
+
+
+
+
+
+

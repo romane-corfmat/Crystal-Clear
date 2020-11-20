@@ -1,0 +1,36 @@
+.form {width: 475px ;
+	margin: 0px auto ;
+}
+
+.form p { margin: 25px auto;
+}
+
+.aboutus {display: flex;
+margin: 75px 50px;
+}
+
+.form h2 {margin: 0px
+}
+
+input, label {display: block;}
+
+label {font-family: Montserrat;
+padding-bottom: 8px;
+}
+
+input { font-family: Montserrat;
+border-radius:0px;
+width: 357px;
+height: 30px;
+}
+
+#message {height: 150px;
+}
+
+#submit {background-color: #0057B8;
+color:white;
+width: 150px;
+font-weight: 700;
+height: 50px;
+margin-top: 45px;
+}

@@ -1,0 +1,15 @@
+.container-items-row { display: flex;
+	margin: 75px;
+	justify-content: space-between;
+ }
+
+ .container-items img {width: 400px;
+ 	height: 280px;
+ 	border-radius: 5px;
+ }
+
+ .container-items p {text-align: center;
+ 	 	margin: 20px;
+
+ 	}
+

@@ -1,0 +1,18 @@
+.container-ouractions {
+	display: flex;
+	margin: 30px 50px;
+}
+
+.container-ouractions img { 
+width: 400px;
+border-radius: 3px;
+
+ }
+
+ .container-text-ouractions {
+ 	margin: 10px 50px;
+ }
+
+  .container-text-ouractions p {
+margin: 40px 0px;
+ }

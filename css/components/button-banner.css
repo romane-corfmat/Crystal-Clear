@@ -1,0 +1,18 @@
+
+
+ .btn-banner {
+ 	background-color: white ;
+ 	padding: 15px 20px;
+	border-radius: 50px;
+	color: #0A57B8;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+    display: inline-flex;
+    margin-left: 30px;
+    margin-right: 30px;
+ }
+
+.btn-banner:hover {
+	background-color: #072F59;
+	color: white;
+  }

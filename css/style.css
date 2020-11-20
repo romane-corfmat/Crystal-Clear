@@ -1,0 +1,53 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@100&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+
+@import url("components/container-selections.css");
+@import url("components/container-aboutus.css");
+@import url("components/container-ouractions.css");
+@import url("components/container-items.css");
+@import url("components/avatar.css");
+@import url("components/button-banner.css");
+@import url("components/button-items.css");
+@import url("components/banner.css");
+@import url("components/header.css");
+@import url("components/card1.css");
+@import url("components/pictograms.css");
+@import url("components/form.css");
+
+
+
+
+body{
+	font-family: 'Montserrat', serif;
+	font-size: 16px;
+	margin: 0px;
+	background-color: #f7fbff;
+}
+
+	
+h1 {
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-size: 45px;
+	margin-left: 75px;
+}
+
+.page-title {
+		margin-bottom: 70px;}
+
+h2 {
+	font-family: 'Montserrat';
+	font-weight: 700;
+	color: #0057B8;
+}
+
+h3 {
+		color: #0057B8;
+}
+
+a {
+	text-decoration: none;
+}
